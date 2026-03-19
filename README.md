@@ -123,7 +123,7 @@ Características:
 - Conecta los nodos con líneas
 - Diferencia operadores y operandos mediante colores
 
-![alt text](image-4.png)
+![alt text](image-4.png) 
 
 
 ### Clase Validador
