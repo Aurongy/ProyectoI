@@ -45,7 +45,7 @@ Se encarga de iniciar la aplicación y ejecutar la interfaz gráfica mediante `S
 <br>
 - Coordinar el flujo de ejecución del programa
 
-![alt text](image-1.png)
+![image alt](https://github.com/Aurongy/ProyectoI/blob/1fb0de21e731f3bfd275a3d4a559abec4d4b3560/src/image-1.png)
 
 ### Clase Nodo
 
