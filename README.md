@@ -227,7 +227,7 @@ a b c * + d e f √ + / g ^ -
 
 ### Resultado final
 
-![alt text](image-6.png)
+![image alt](https://github.com/Aurongy/ProyectoI/blob/2e7f6862ee272e15e775d4fd9c3623cbde7d4b59/src/image-6.png)
 
 ![alt text](image-8.png)
 
