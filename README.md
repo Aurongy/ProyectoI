@@ -6,7 +6,7 @@
 - ANGEL AURELIO TZI CUCUL <br> 7690-23-3711
 - ANGEL STEVE MOREJON MARTINEZ <br>  7690-23-21973
 
-## DESCRIPCION 
+## DESCRIPCIÓN 
 
 Este proyecto consiste en el desarrollo de una aplicación en Java que permite ingresar una expresión matemática en notación infija, validarla, transformarla y evaluarla mediante el uso de estructuras de datos como pilas y árboles binarios de expresión.
 
@@ -16,7 +16,7 @@ La aplicación Calculadora con Árbol de Expresión es un programa desarrollado 
 
 El sistema implementa estructuras de datos, específicamente árboles binarios de expresión, para representar de forma jerárquica cada operación matemática. A partir de la expresión ingresada, el programa realiza una conversión a notación postfija, construye el árbol correspondiente y ejecuta distintos recorridos (inorden, preorden y postorden) para mostrar la estructura de la expresión.
 
-## Objetivo
+## OBJETIVO
 
 El objetivo principal del proyecto es aplicar conceptos fundamentales de:
 - Implementar árboles binarios de expresión  
@@ -25,7 +25,7 @@ El objetivo principal del proyecto es aplicar conceptos fundamentales de:
 - Evaluar expresiones matemáticas  
 - Desarrollar una interfaz gráfica en Java  
 
-## Estructura
+## ESTRUCTURA
 
 | Clase                | Función principal                          |
 |---------------------|--------------------------------------------|
@@ -151,7 +151,7 @@ Todas las clases trabajan en conjunto de la siguiente manera:
 4. `Evaluador` calcula el resultado  
 5. `DibujoDeArbol` muestra el árbol gráficamente 
 
-## Funcionamiento
+## FUNCIONAMIENTO
 
 Solo contenga caracteres permitidos
 
@@ -236,7 +236,7 @@ a b c * + d e f √ + / g ^ -
 - Postfijo: a b c * + d e f √ + / g ^ -  
 - Resultado: 7.75
 
-## Requisitos
+## REQUISITO
 
 - Java JDK 8 o superior  
 - Entorno de desarrollo (IDE) como:
@@ -269,7 +269,7 @@ Para comprender o modificar el proyecto se recomienda conocer:
 - Expresiones matemáticas  
 - Programación orientada a objetos
 
-## Conclusión
+## CONCLUSION
 
 El desarrollo de este proyecto permitió aplicar de manera práctica conceptos fundamentales de programación, como el uso de estructuras de datos (pilas y árboles binarios) para el procesamiento de expresiones matemáticas.
 
