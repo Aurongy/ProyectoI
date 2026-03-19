@@ -169,7 +169,7 @@ Solo contenga caracteres permitidos
 
 a + (b * c) - (d / (e + √f)) ^ g
 
-![alt text](image-7.png)
+![image alt](https://github.com/Aurongy/ProyectoI/blob/dd390c8236ee9625e3bd584ff71e776279e0e1b4/src/image-7.png)
 
 ### 1. Identificación de variables
 
