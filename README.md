@@ -122,7 +122,7 @@ Características:
 - Conecta los nodos con líneas
 - Diferencia operadores y operandos mediante colores
 
-![alt text](image-4.png) 
+![image alt]([image-4.png](https://github.com/Aurongy/ProyectoI/blob/c9d93e4b8b740a568d20a378d870cd432462e987/src/image-4.png) 
 
 
 ### Clase Validador
