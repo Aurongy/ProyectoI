@@ -42,7 +42,6 @@ El objetivo principal del proyecto es aplicar conceptos fundamentales de:
 Se encarga de iniciar la aplicación y ejecutar la interfaz gráfica mediante `SwingUtilities`.
 - Crear la interfaz gráfica (ventana)
 - Gestionar los eventos del usuario
-<br>
 - Coordinar el flujo de ejecución del programa
 
 ![image alt](https://github.com/Aurongy/ProyectoI/blob/1fb0de21e731f3bfd275a3d4a559abec4d4b3560/src/image-1.png)
