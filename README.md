@@ -269,7 +269,7 @@ Para comprender o modificar el proyecto se recomienda conocer:
 - Expresiones matemáticas  
 - Programación orientada a objetos
 
-## CONCLUSION
+## CONCLUSIÓN
 
 El desarrollo de este proyecto permitió aplicar de manera práctica conceptos fundamentales de programación, como el uso de estructuras de datos (pilas y árboles binarios) para el procesamiento de expresiones matemáticas.
 
