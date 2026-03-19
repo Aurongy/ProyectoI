@@ -229,7 +229,7 @@ a b c * + d e f √ + / g ^ -
 
 ![image alt](https://github.com/Aurongy/ProyectoI/blob/2e7f6862ee272e15e775d4fd9c3623cbde7d4b59/src/image-6.png)
 
-![alt text](image-8.png)
+![image alt](https://github.com/Aurongy/ProyectoI/blob/715f841487b839164f984ed993f57f43b645d180/src/image-8.png)
 
 ### Resumen
 
